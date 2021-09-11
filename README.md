@@ -1,7 +1,7 @@
 ## Kalimaty كلماتي
 ![](KalimatyIcon2.png)
 
-[تحميل من هنا | Download from here](https://apps.apple.com/sa/app/%D9%83%D9%84%D9%85%D8%A7%D8%AA%D9%8A/id1561666117)
+[![App store: كلماتي](images/appstoreBadge.png)](https://apps.apple.com/sa/app/%D9%83%D9%84%D9%85%D8%A7%D8%AA%D9%8A/id1561666117)
 
 .شكراً لاستخدامك تطبيق كلماتي، هذه الصفحه مخصصه للتواصل بخصوص الأخطاء المتعلقه بالتطبيق
 
